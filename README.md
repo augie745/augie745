@@ -3,7 +3,7 @@
 ## - ⌨️ I have developed experience with Python. I also dabble in Haskell for fun and study computability/complexity theory.
 ## - 🌱 I’m currently learning to code with both Java and C++, and I'm attending Hunter College's Graduate CS Program this Fall!
 ## - 📫 You can find my digital business card here: https://hihello.me/app/cards/CmqcKTsKzD8q4dAzFcPR
-## - ⚡ I'm also an avid Latin reader/writer! I also make music and do video game soundtracks.
+## - ⚡ I'm also an avid Latin reader/writer! Additionally, I make music and occarionally video game soundtracks.
 <!--
 
 
