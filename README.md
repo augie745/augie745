@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## - 🔭 I’m currently working on ray tracing birefringence of uniaxial crystals!
-## My current progress with this project can be found in the "Ray-Tracing-Branch" of the CrystalGraphics Repository. Here's A Link!
+      My current progress with this project can be found in the "Ray-Tracing-Branch" of the CrystalGraphics Repository. Here's A Link!
 ## - https://github.com/augie745/CrystalGraphics/tree/Ray-Tracing-Branch
 ## - ⌨️ I have strong experience with Python and C. I also dabble in Haskell for fun and study computability/complexity theory.
 ## - 🌱 I’m currently learning to code in Java/C#, and I'm attending Hunter College's Graduate CS Program this Fall!
