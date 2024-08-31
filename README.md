@@ -4,6 +4,7 @@
 ## - 🌱 I’m currently learning to code with both Java and C++, and I'm attending Hunter College's Graduate CS Program this Fall!
 ## - 📫 You can find my digital business card here: [https://hihello.me/app/cards/CmqcKTsKzD8q4dAzFcPR](https://hihello.me/p/2189f83c-8fee-40d2-ba9c-362398132b28?sharer_id=V9zWC4bd85XZVTUaLIturFIgLC02)
 ## - ⚡ I'm also an avid Latin reader/writer! Additionally, I make music and occarionally video game soundtracks.
+## Sorry, I'm not great at web pages.
 <!--
 
 
