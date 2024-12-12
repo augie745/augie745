@@ -1,11 +1,12 @@
 ## Hi there 👋
-## - 🔭 I’m currently working on ray tracing birefringence of uniaxial crystals! 
+## - 🔭 I’m currently working on ray tracing birefringence of uniaxial crystals, as well as 2 Video Game Projects! 
 ## My current progress with this project can be found in the "Ray-Tracing-Branch" of the CrystalGraphics Repository. Here's A Link! https://github.com/augie745/CrystalGraphics/tree/Ray-Tracing-Branch 
-## - ⌨️ I have strong experience with Python and C (strictly C). I also dabble in Haskell for fun and study computability/complexity theory.
-## - 🌱 I’m currently learning to code in Lua, C++, and Flask, and I'm attending Hunter College's Graduate CS Program this Fall!
+## - Recently, I pushed the first release of my Pico-8 Game Engine, which can be found in my pinned.
+## - ⌨️ I have strong experience with Python, Lua, and ANSI C. I also dabble in Haskell for fun and study computability/complexity theory.
+## - 🌱 I’m currently learning to code in C++, Assembly, and Flask, and I'm currently attending Hunter College for my Master's in Computer Science!
 ## - 📫 You can find my digital business card here: [https://hihello.me/app/cards/CmqcKTsKzD8q4dAzFcPR](https://hihello.me/p/2189f83c-8fee-40d2-ba9c-362398132b28?sharer_id=V9zWC4bd85XZVTUaLIturFIgLC02)
-## - ⚡ I'm also an avid Latin reader/writer! Additionally, I make music and occarionally video game soundtracks.
-## Sorry, I'm not great at web pages.
+## - ⚡ I'm also an avid Latin reader/writer! Additionally, I write and compose music and occasionally video game soundtracks.
+## Sorry, I promise I've got a website coming soon! Never been too great at them.
 <!--
 
 
